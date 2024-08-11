@@ -1,0 +1,142 @@
+#header {
+    background-color: white;
+    margin: auto;
+
+
+
+}
+#header > div > div:nth-child(2) {
+    padding-left: 30px;
+}
+
+#header > div > div:nth-child(2) > p {
+    color: gray;
+    margin-right: 10px;
+    width: 50%;
+}
+#header > div {
+    display: flex;
+    margin-left:10px;}
+
+
+#header > ul {
+    text-decoration: none;
+
+    margin: auto;
+    width: 70%;
+        padding:20px;
+    opacity: 50%;
+}
+#header > ul > li {
+    list-style: none;
+    display: inline;
+    padding: 20px;
+
+
+}
+#header > ul > li a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+
+body {
+    background-color: deepskyblue;
+    margin-left: 10%;
+    margin-right: 10%;
+
+
+}
+#body {
+    background-color: bisque;
+}
+#header {
+    background: white;
+
+
+}
+#home > div.sidebar > div {
+    margin-left: 90%;
+    color:orangered;
+}
+
+#home > div.aside h1 {
+    color: crimson;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: auto;
+}
+#home > div.aside  {
+    color: gray;
+    width: 50%;
+}
+#home {
+    display:flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#iphone{
+    margin-left: 90%;
+}
+#twitter a:hover {
+    background: url("/images/twitter.png") 0 45px;}
+body > div > div.section > div > div > div > div > ul > li {
+    color: black;
+    list-style: none;
+    float: left;
+    padding-left: 10px;
+}
+#body > div > div.section > div > div > div > div > ul > li a {
+    color: black;
+}
+#body > div > div.section > div > div {
+    display: flex;
+    background-color: bisque ;
+}
+.section {
+    display: inline;
+}
+#body > div > div.section > div > div > ul{
+    display: inline-flex;
+
+
+}
+#body > div > div.section > div > div > ul > li{
+    padding: 15px;
+    list-style: none;
+    margin-left: 7%;
+
+
+}
+#footer  {
+display: flex;
+    text-decoration: none;
+    background-color: cornflowerblue;
+    padding: 2px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+#footer > ul > li{
+   background-color: cornflowerblue;
+    list-style: none;
+    display: inline;
+    padding: 10px;
+
+
+}
+#footer > p {
+    text-align: right;
+
+    margin: auto;
+}
+#body > div > div.section > div > h2 {
+    color: blueviolet;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+
